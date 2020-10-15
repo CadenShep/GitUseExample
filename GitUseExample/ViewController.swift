@@ -15,8 +15,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     @IBAction func buttonClicked(_sender: UIButton){
-        print("This is a Git tutorial")
-        print("yo what is up my guy, i am typing this so it seams like i am doing work")
+        print("You finished!")
+
     }
 
 }
